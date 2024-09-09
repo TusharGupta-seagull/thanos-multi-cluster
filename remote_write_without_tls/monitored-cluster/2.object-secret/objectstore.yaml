@@ -9,7 +9,7 @@ stringData:
     type: S3
     config:
       bucket: test
-      endpoint: "10.96.26.199"
+      endpoint: "10.96.26.199:9000"
       insecure: true
       access_key: "24w5MJQj4R4qe9Qh"
       secret_key: "bOThRh09iWRbxiNN9QuVihxTc3WKQRrU"

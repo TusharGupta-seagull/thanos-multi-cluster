@@ -91,4 +91,4 @@ spec:
             secretName: objstore
         - name: data
           persistentVolumeClaim:
-          claimName: storegateway
+            claimName: storegateway

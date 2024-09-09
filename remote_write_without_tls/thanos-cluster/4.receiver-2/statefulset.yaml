@@ -117,4 +117,4 @@ spec:
             secretName: hashring
         - name: data
           persistentVolumeClaim:
-          claimName: data-receiver-2-0
+            claimName: data-receiver-2-0
