@@ -5,7 +5,7 @@ metadata:
   name: grafana
   namespace: monitoring
   labels:
-    team: devops-by-example
+    team: observability
 spec:
   endpoints:
   - honorLabels: true

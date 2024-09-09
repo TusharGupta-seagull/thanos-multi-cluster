@@ -16,7 +16,7 @@ spec:
       monitoring: prometheus
   serviceMonitorSelector:
     matchLabels:
-      team: devops-by-example
+      team: observability
 
   resources:
     requests:
